@@ -1,5 +1,5 @@
 {
-    "name": "sylius/settings-bundle",
+    "name": "mstodulski/sylius-settings-bundle",
     "type": "symfony-bundle",
     "description": "Settings system for Symfony2 applications, editable via web user interface.",
     "keywords": ["config", "configuration", "settings", "shop", "webshop", "ecommerce"],

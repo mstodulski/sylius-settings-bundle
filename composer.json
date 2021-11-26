@@ -34,7 +34,7 @@
 
         "sylius/registry": "^1.0",
         "mstodulski/sylius-resource-bundle": "8.0",
-        "symfony/framework-bundle": "^2.8"
+        "symfony/framework-bundle": "5.3.*"
     },
     "require-dev": {
         "phpspec/phpspec": "^3.1",

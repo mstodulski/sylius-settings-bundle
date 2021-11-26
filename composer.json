@@ -30,9 +30,9 @@
         }
     ],
     "require": {
-        "php": "^5.6|^7.0|^8.0",
+        "php": "^7.4 || ^8.0",
 
-        "sylius/registry": "^1.0",
+        "mstodulski/sylius-registry": "8.*",
         "mstodulski/sylius-resource-bundle": "8.0",
         "symfony/framework-bundle": "^4.4 || ^5.3"
     },
